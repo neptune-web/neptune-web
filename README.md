@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everybody 👋
 
 <!--
 **topdev0528/topdev0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a full stack developer.
