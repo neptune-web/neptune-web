@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>I'm a full stack developer.<img src="" alt="no image"></img></h1>
+<h1>I'm a full stack developer.</h1>
 <h3>language and tools</h3>
