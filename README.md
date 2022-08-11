@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>I'm a full stack developer.</h1>
-<h3>language and tools</h3>
