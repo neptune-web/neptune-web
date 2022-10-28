@@ -4,7 +4,7 @@
 <hr />
 <h3>
   <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>
-  "Languages and Tools"
+  Languages and Tools
 </h3>
 <div dir="auto">
   <img title="HTML5" src="https://user-images.githubusercontent.com/105991279/198417598-f09d2e07-fe34-41ad-92d4-d6402cfd9cfb.svg" alt="HTML5" width="40" height="40" style="max-width: 100%; visibility: visible;" data-xblocker="passed">  
